@@ -17,7 +17,8 @@ const WorkList = async () => {
           We provide the Perfect Solution to your business growth
         </div>
         <div className='mx-6 mb-3.5 mt-10 max-md:mr-2.5 max-md:max-w-full'>
-          <div className='gap-5 max-md:flex max-md:flex-col max-md:gap-0'>
+          <div className='gap-5 flex  flex-col md:flex-row'>
+            
             {data.map((item, i) => (
               <div
                 key={i}

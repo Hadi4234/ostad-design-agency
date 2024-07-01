@@ -22,7 +22,7 @@ const Subscribe = () => {
               type='text'
               placeholder='Enter Email here'
             />
-            <button className=' ml-9 rounded-lg bg-orange-600 px-3 py-2 text-white'>
+            <button className=' ml-9 rounded-lg bg-orange-500 px-3 py-2 text-white'>
               Subscribe
             </button>
           </div>
